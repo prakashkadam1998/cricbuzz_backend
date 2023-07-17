@@ -1,0 +1,5 @@
+package com.app.entity;
+
+public enum Role {
+	WK_BATSMAN,BATSMAN,BOWLER,BOWLING_ALLROUNDER,BATTING_ALLROUNDER
+}
